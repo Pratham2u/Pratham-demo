@@ -1,5 +1,5 @@
 # Pratham-demo
 This is my first Git repo.
 <br>
-Author- Prathampoojit Bandi
+Author- Prathampoojit Bandi(Hello!)
 
